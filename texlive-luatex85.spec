@@ -1,6 +1,6 @@
 Name:		texlive-luatex85
 Version:	41456
-Release:	1
+Release:	2
 Summary:	pdfTeX aliases for LuaTeX
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/luatex85
